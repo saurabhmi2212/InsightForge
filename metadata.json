@@ -1,0 +1,5 @@
+{
+  "name": "The AI Newsroom",
+  "description": "A simulation where Gemini 3 acts as a reporter fulfilling an assignment, followed by a self-critical analysis of what it got right and wrong.",
+  "requestFramePermissions": []
+}
