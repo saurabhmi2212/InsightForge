@@ -1,19 +1,9 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+**Let's Gemini 3 Run a Newsroom Assignment. Here’s What It Got Right and Wrong**
 
-# Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+Experiment carried out using Gemini 3 in Google AI Studio, with Antigravity serving as the orchestration layer for prompts, versioning, and evaluation. We assigned the model a standard newsroom task: pitch, report, and write a publishable news article under real editorial constraints, including word limits, sourcing expectations, and a fixed deadline
 
-View your app in AI Studio: https://ai.studio/apps/drive/1cmBSiOIOrQdzOMKhjeTkewAKxCvHIMXZ
 
-## Run Locally
 
-**Prerequisites:**  Node.js
+In this project, Google Gemini 3 was used alongside Antigravity to simulate a newsroom assignment, assessing how AI systems gather information, generate narratives, and apply editorial judgment. Gemini 3 demonstrated strengths in rapid summarization and structured drafting, while Antigravity supported idea exploration and narrative framing. The evaluation highlighted both tools’ potential to assist newsroom workflows, while emphasizing the need for human oversight to address fact-checking, context, and editorial rigor
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app :
-   `npm run dev`
